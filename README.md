@@ -179,7 +179,7 @@ docs for the full list of methods and their supported arguments.
 | [flickr.photosets.getContext](https://www.flickr.com/services/api/flickr.photosets.getContext.html) | `none`  | `photo_id`, `photoset_id` |
 | [flickr.photosets.getInfo](https://www.flickr.com/services/api/flickr.photosets.getInfo.html) | `none`  | `photoset_id`, `user_id` |
 | [flickr.photosets.getList](https://www.flickr.com/services/api/flickr.photosets.getList.html) | `none`  |  |
-| [flickr.photosets.getPhotos](https://www.flickr.com/services/api/flickr.photosets.getPhotos.html) | `none`  | `photoset_id`, `user_id` |
+| [flickr.photosets.getPhotos](https://www.flickr.com/services/api/flickr.photosets.getPhotos.html) | `none`  | `photoset_id` |
 | [flickr.photosets.orderSets](https://www.flickr.com/services/api/flickr.photosets.orderSets.html) | `write` :pencil2: | `photoset_ids` |
 | [flickr.photosets.removePhoto](https://www.flickr.com/services/api/flickr.photosets.removePhoto.html) | `write` :pencil2: | `photoset_id`, `photo_id` |
 | [flickr.photosets.removePhotos](https://www.flickr.com/services/api/flickr.photosets.removePhotos.html) | `write` :pencil2: | `photoset_id`, `photo_ids` |
